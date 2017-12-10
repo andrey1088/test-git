@@ -2,6 +2,10 @@ body {
     background: green;
     font-size: 20px;
 }
+.wrapper {
+    width: 970px;
+    margin: 0 auto;
+}
 h1 {
     font-size: 32px;
     color: red;
@@ -11,4 +15,8 @@ h1 {
 ol {
     font-size: 24px;
     color: blue;
+}
+p {
+    font-family: sans-serif;
+    font-size: 20px;
 }
